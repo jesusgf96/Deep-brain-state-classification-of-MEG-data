@@ -91,6 +91,8 @@ i.alaouiabdellaoui@student.maastrichtuniversity.nl
 
 siamak.mehrkanoon@maastrichtuniversity.nl
 
+j.garciafernandez@student.maastrichtuniversity.nl
+
 The data must be downloaded and unzipped in the same directory as the scripts.
 
 📜 Scripts
