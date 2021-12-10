@@ -85,7 +85,7 @@ Note 2: It is not advised to run the code in Jupyter notebook environments since
 📂 Data
 -----
 
-In order to download the data, please email to both of the following addresses:
+In order to download the data, please email to one of the following addresses:
 
 i.alaouiabdellaoui@student.maastrichtuniversity.nl
 
